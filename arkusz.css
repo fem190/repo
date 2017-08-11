@@ -1,0 +1,40 @@
+* {
+    font-family: sans-serif;
+}
+h1 {
+	padding-top: 24px;
+	font-size: 48px;
+	color:  #66757F;
+	text-align: center;
+}
+
+body {
+	margin: 0px;
+	background-color: #CCD6DD;
+}
+.border {
+	border-bottom: solid 1px grey;
+}
+div div a {
+	margin: auto;
+	color: #bccad6;
+	padding: 10px;
+	float: right;
+	font-size:36px;
+}
+div div a:hover {
+	color: #e0f1ff;
+}
+.category {
+	padding: 48px 0px 0px 48px;
+	font-size: 36px;
+	color:  #292F33;
+}
+.item {
+	color: #4e5960;
+	padding: 12px 0px 0px 96px;
+	font-size: 24px;
+}
+.last {
+	padding-bottom: 96px;
+}
